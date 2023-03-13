@@ -1,0 +1,8 @@
+[repositories]
+root = .
+prelude = .
+buck = no
+fbcode = no
+fbsource = no
+ovr_config = no
+toolchains = no
